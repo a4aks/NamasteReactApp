@@ -27,4 +27,4 @@ index.html --> The entry point for the web Application. Parcel will start bundli
 -   NPM(Node Package Manager) is a package manager for JavaScript programming language.
 -   It is a default package manager for the JavaScript runtime environment Node JS.
 -   It allows developers to share and reuse code, and it also makes it easy to manage  project dependencies.
-    ## Package Management - NPM allows developers to install, share and manage packages or modules for their JavaScript projects. These project can include libraries,frameworks, tools, and other code components.
+    => Package Management - NPM allows developers to install, share and manage packages or modules for their JavaScript projects. These project can include libraries,frameworks, tools, and other code components.
